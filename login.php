@@ -78,8 +78,9 @@ else{
     Scripts
     ================================================ -->
 
-  <!-- jQuery Library -->
-  <script type="text/javascript" src="js/plugins/jquery-1.11.2.min.js"></script>
+    <!-- jQuery Library -->
+    <script type="text/javascript" src="js/plugins/jquery-3.3.1.min.js"></script>    
+  
   <!--materialize js-->
   <script type="text/javascript" src="js/materialize.min.js"></script>
   <!--scrollbar-->

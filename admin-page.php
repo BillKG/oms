@@ -288,8 +288,8 @@ include 'includes/connect.php';
     ================================================ -->
     
     
-    <!-- jQuery Library -->
-    <script type="text/javascript" src="js/plugins/jquery-1.11.2.min.js"></script>    
+      <!-- jQuery Library -->
+      <script type="text/javascript" src="js/plugins/jquery-3.3.1.min.js"></script>    
     <!--angularjs-->
     <script type="text/javascript" src="js/plugins/angular.min.js"></script>
     <!--materialize js-->
@@ -297,9 +297,9 @@ include 'includes/connect.php';
     <!--scrollbar-->
     <script type="text/javascript" src="js/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
     <!-- data-tables -->
-    <script type="text/javascript" src="js/plugins/data-tables/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="js/plugins/data-tables/js/dataTables.min.js"></script>
     <script type="text/javascript" src="js/plugins/data-tables/data-tables-script.js"></script>
-    
+	
     <script type="text/javascript" src="js/plugins/jquery-validation/jquery.validate.min.js"></script>
     <script type="text/javascript" src="js/plugins/jquery-validation/additional-methods.min.js"></script>
     
